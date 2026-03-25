@@ -26,6 +26,12 @@ Key Features
 - Modular and Extensible Design
   Supports future enhancements such as fine-tuning, secure data pipelines, and enterprise integration.
 
+## Data Files  -- IMPORTANT
 
+Project data files (e.g., research papers, NOFO documents) are not included in this repository due to size constraints.
+
+To run this project:
+- Add your own PDF documents to the appropriate directory
+- Update file paths as needed
 
 
